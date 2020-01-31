@@ -9,7 +9,7 @@ export default function App() {
   const setGoalHandlers=(enterInput)=>{
 
 
-    setGoal(ahamd);
+    setGoal(ali);
   }
 
   const addgoalHandler=()=>{
@@ -20,6 +20,7 @@ console.log(enterInput)
   return (
     <View style={styles.container}>
       <View
+
         style={styles.innerContainer}>
       
         <TextInput
