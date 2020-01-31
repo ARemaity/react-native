@@ -2,8 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 12624,
-  "expoServerNgrokUrl": "https://h6-wsn.anonymous.awesomeproject.exp.direct",
-  "packagerNgrokUrl": "https://packager.h6-wsn.anonymous.awesomeproject.exp.direct",
-  "ngrokPid": 13068
+  "packagerPid": 8456,
+  "expoServerNgrokUrl": "https://h6-wsn.anonymous.react-native.exp.direct",
+  "packagerNgrokUrl": "https://packager.h6-wsn.anonymous.react-native.exp.direct",
+  "ngrokPid": 11332
 }
