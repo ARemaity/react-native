@@ -9,9 +9,10 @@ export default function App() {
   const setGoalHandlers=(enterInput)=>{
 
 
-    setGoal(ali);
+    setGoal(setGoal);
   }
 
+  
   const addgoalHandler=()=>{
 
 console.log(enterInput)
