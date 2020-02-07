@@ -26,7 +26,7 @@ console.log(enterInput)
         <TextInput
           placeholder="open"
           style={{
-            borderBottomColor: "blue",
+            borderBottomColor: "red",
             borderBottomWidth: 2,
             paddingLeft: 20,
             marginBottom: 10,
