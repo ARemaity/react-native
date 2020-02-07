@@ -9,7 +9,7 @@ export default function App() {
   const setGoalHandlers=(enterInput)=>{
 
 
-    setGoal(ali);
+    setGoal(ahamd);
   }
 
   const addgoalHandler=()=>{
