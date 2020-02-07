@@ -12,7 +12,7 @@ export default function App() {
     setGoal(setGoal);
   }
 
-  
+
   const addgoalHandler=()=>{
 
 console.log(enterInput)
